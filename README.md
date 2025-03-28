@@ -31,7 +31,7 @@
   <a href="https://discord.gg/B4SYTyW" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="m1n1don"/>
   </a>
-  <a href="https://twitter.com/M1n1don" target="_blank">
+  <a href="https://twitter.com/m1n1don" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@M1n1don" target="_blank">
@@ -45,7 +45,7 @@
 $ about_me
                □□□□  ■■■■              profile
              □□□□□□  ■■■■■■            ----------
-       □□    □□□□□□  ■■■■■■■   ■■      Uptime: "17 years"
+       □□    □□□□□□  ■■■■■■■   ■■      Uptime: "18 years"
     □□□□□    □□□□□□  ■■■■■■■   ■■■■■   Position: "Shizuoka, Japan"
    □□□□□□    □□□□□□  ■■■■■■■■  ■■■■■   Languages: ["Kotlin", "Java", "TypeScript", "PHP", "Python"]
    □□□□□□    □□□□□□  ■■■■■■■■■ ■■■■■   OS: "MacOS"
@@ -59,7 +59,7 @@ $ about_me
     □□□□□    □□□□□□  ■■■■■■    ■■■■■   contacts
        □□    □□□□□□  ■■■■■■     ■■     ----------
              □□□□□□  ■■■■■■            Email: "m1n1don@seriolab.jp"
-               □□□□  ■■■■              Twitter: "@M1n1don"
+               □□□□  ■■■■              Twitter: "@m1n1don"
 ```
 <br/>
 
@@ -107,13 +107,13 @@ $ about_me
 <br/>
 
 ## Top Open Source
-[![Seriolab Website](https://github-readme-stats.vercel.app/api/pin/?username=M1n1don&repo=seriolab.jp&theme=dark)](https://github.com/M1n1don/seriolab.jp)
+[![Seriolab Website](https://github-readme-stats.vercel.app/api/pin/?username=M1n1don&repo=seriolab.jp&theme=dark)](https://github.com/mndn-bit/seriolab.jp)
 [![IceCat](https://github-readme-stats.vercel.app/api/pin/?username=IceServerLab&repo=IceCat&theme=dark)](https://github.com/IceServerLab/IceCat)
 [![Lobby](https://github-readme-stats.vercel.app/api/pin/?username=IceServerLab&repo=Lobby&theme=dark)](https://github.com/IceServerLab/Lobby)
-[![M1n1don Readme](https://github-readme-stats.vercel.app/api/pin/?username=M1n1don&repo=M1n1don&theme=dark)](https://github.com/M1n1don/M1n1don)
+[![M1n1don Readme](https://github-readme-stats.vercel.app/api/pin/?username=M1n1don&repo=M1n1don&theme=dark)](https://github.com/mndn-bit/M1n1don)
 
 <p align="left">
-  <a href="https://github.com/M1n1don?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/mndn-bit?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -121,20 +121,20 @@ $ about_me
 <br/>
 
 <p align="center">
-  <a href="https://github.com/M1n1don">
+  <a href="https://github.com/mndn-bit">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=M1n1don&theme=dark" alt="M1n1don's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/M1n1don">
+  <a href="https://github.com/mndn-bit">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M1n1don&theme=dark" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-  <a href="https://github.com/M1n1don"><img alt="M1n1don's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=M1n1don&show_icons=true&count_private=true&theme=dark" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/M1n1don"><img alt="M1n1don's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=M1n1don&langs_count=8&layout=compact&theme=dark" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/mndn-bit"><img alt="M1n1don's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=M1n1don&show_icons=true&count_private=true&theme=dark" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/mndn-bit"><img alt="M1n1don's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=M1n1don&langs_count=8&layout=compact&theme=dark" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 

@@ -25,7 +25,7 @@
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="m1n1don"  />
   </a>
   <br />
-  <a href="https://www.seriolab.jp/" target="_blank">
+  <a href="https://mndn.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="m1n1don" />
   </a>
   <a href="https://discord.gg/B4SYTyW" target="_blank">

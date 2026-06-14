@@ -12,7 +12,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://twitter.com/M1n1don/">「 Follow Me 」</a>
+    <a href="https://twitter.com/m1n1don/">「 Follow Me 」</a>
     <br>
     「 I am studying cyber security from <b>Japan</b> 」
     <br>
@@ -45,7 +45,7 @@
 $ about_me
                □□□□  ■■■■              profile
              □□□□□□  ■■■■■■            ----------
-       □□    □□□□□□  ■■■■■■■   ■■      Uptime: "18 years"
+       □□    □□□□□□  ■■■■■■■   ■■      Uptime: "19 years"
     □□□□□    □□□□□□  ■■■■■■■   ■■■■■   Position: "Shizuoka, Japan"
    □□□□□□    □□□□□□  ■■■■■■■■  ■■■■■   Languages: ["Kotlin", "Java", "TypeScript", "PHP", "Python"]
    □□□□□□    □□□□□□  ■■■■■■■■■ ■■■■■   OS: "MacOS"
@@ -106,6 +106,7 @@ $ about_me
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <br/>
 
+<!--
 ## Top Open Source
 [![Seriolab Website](https://github-readme-stats.vercel.app/api/pin/?username=M1n1don&repo=seriolab.jp&theme=dark)](https://github.com/m1n1don/seriolab.jp)
 [![IceCat](https://github-readme-stats.vercel.app/api/pin/?username=IceServerLab&repo=IceCat&theme=dark)](https://github.com/IceServerLab/IceCat)
@@ -115,6 +116,8 @@ $ about_me
 <p align="left">
   <a href="https://github.com/m1n1don?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
+
+-->
 
 <br/>
 <hr/>
